@@ -46,10 +46,13 @@
                 android:layout_marginTop="16dp"
                 android:text="Feather Design"
                 android:textStyle="bold"
+                android:tooltipText="Edit scrap"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.cardview.widget.CardView>
+
+
 
     <TextView
         android:id="@+id/textView"
@@ -194,5 +197,15 @@
         app:cardBackgroundColor="#E0E0E0"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
+
+<!--    <com.google.android.material.floatingactionbutton.FloatingActionButton-->
+<!--        android:id="@+id/FeatherDesignCard1"-->
+<!--        android:layout_width="200dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:layout_marginStart="96dp"-->
+<!--        android:layout_marginTop="104dp"-->
+<!--        android:tooltipText="Click on your scrap to edit"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
