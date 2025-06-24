@@ -39,8 +39,8 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **GoogleKeep** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
-
+[<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+](https://9to5google.com/wp-content/uploads/sites/4/2021/09/google_keep_material_you_1.png?w=1000)
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
