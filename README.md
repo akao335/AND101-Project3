@@ -44,8 +44,9 @@ I have chosen to duplicate the following layout from the **GoogleKeep** app:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+https://www.loom.com/share/04e53bc57250482ca9402da53ac32438?sid=0effbfe0-e72d-40e3-896d-44257e68b5dc
 
-[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />](https://www.loom.com/share/04e53bc57250482ca9402da53ac32438?sid=0effbfe0-e72d-40e3-896d-44257e68b5dc)
+[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />]
 
 GIF created with **Loom**
 
